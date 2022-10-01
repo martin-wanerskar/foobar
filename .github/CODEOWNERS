@@ -4,8 +4,8 @@
 # The last matching pattern takes precedence.
 # https://help.github.com/articles/about-codeowners/
 
-*                       			        @martin-wanerskar
-docs/						                @martin-wanerskar
-mkdocs.yml/					                @martin-wanerskar
+*                       			          @martin-wanerskar
+docs/						                        @martin-wanerskar
+mkdocs.yml/					                    @martin-wanerskar
 /documentation-templates    		        @martin-wanerskar
-/scaffolder-templates/create-react-app      @martin-wanerskar
+/scaffolder-templates/create-react-app  @martin-wanerskar
