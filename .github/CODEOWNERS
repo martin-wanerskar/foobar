@@ -5,7 +5,7 @@
 # https://help.github.com/articles/about-codeowners/
 
 *                                         @martin-wanerskar
-docs/                                     @martin-wanerskar
-mkdocs.yml/                               @martin-wanerskar
-/documentation-templates                  @martin-wanerskar
+docs/                                     @pwalleni
+mkdocs.yml/                               @pwalleni
+/documentation-templates                  @pwalleni
 /scaffolder-templates/create-react-app    @martin-wanerskar
